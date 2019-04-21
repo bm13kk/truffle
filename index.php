@@ -1,0 +1,1 @@
+echo 'truffle test line'
