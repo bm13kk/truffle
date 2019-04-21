@@ -1,1 +1,1 @@
-echo 'truffle test line'
+echo 'truffle test line';
